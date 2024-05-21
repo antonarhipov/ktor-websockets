@@ -1,0 +1,8 @@
+### First user
+WEBSOCKET ws://localhost:8080/ws?foo
+
+### Second user
+WEBSOCKET ws://localhost:8080/ws?bar
+
+### Third user
+WEBSOCKET ws://localhost:8080/ws?baz
